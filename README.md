@@ -6,9 +6,9 @@ o First Name: at least 3 characters
 o Last Name: at least 3 characters
 
 o Email: Email entered (not left blank) 
-     Should contain ‘@’ and ‘.’ 
-     After last ., there should be at least be 2 characters 
-     First character cannot be @ 
+    ■ Should contain ‘@’ and ‘.’ 
+    ■ After last ., there should be at least be 2 characters 
+    ■ First character cannot be @ 
 
 ○ Password:
     ■ At least 8 characters
